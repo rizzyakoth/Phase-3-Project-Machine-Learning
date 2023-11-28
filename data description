@@ -1,0 +1,39 @@
+State: The state where the customer is located.
+
+Account Length: The number of days the customer has been with Syria Tel.
+
+Area Code: The three-digit area code associated with the customer's phone number.
+
+Phone Number: The customer's phone number.
+
+International Plan: Whether the customer has an international calling plan (binary variable, yes/no).
+
+Voice Mail Plan: Whether the customer has a voice mail plan (binary variable, yes/no).
+
+Number Vmail Messages: The number of voice mail messages received by the customer.
+
+Total Day Minutes: The total number of minutes the customer spent on daytime calls.
+
+Total Day Calls: The total number of calls made by the customer during the day.
+
+Total Day Charge: The total charge for daytime calls.
+
+Total Eve Calls: The total number of calls made by the customer during the evening.
+
+Total Eve Charge: The total charge for evening calls.
+
+Total Night Minutes: The total number of minutes the customer spent on nighttime calls.
+
+Total Night Calls: The total number of calls made by the customer during the night.
+
+Total Night Charge: The total charge for nighttime calls.
+
+Total Intl Minutes: The total number of international minutes used by the customer.
+
+Total Intl Calls: The total number of international calls made by the customer.
+
+Total Intl Charge: The total charge for international calls.
+
+Customer Service Calls: The number of calls made by the customer to customer service.
+
+Churn: Whether the customer churned or not (binary variable, yes/no). Churn refers to customers who have stopped using the services of the company.
